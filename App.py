@@ -1,6 +1,4 @@
 import streamlit as st
-import streamlit_lottie as stl
-import requests
 from PIL import Image
 from streamlit_webrtc import webrtc_streamer
 st.set_page_config(page_title="My Gallery", page_icon="IMG-20211015-WA0003.jpg" )
